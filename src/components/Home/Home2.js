@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/img.png"
-import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
 } from "react-icons/ai";
@@ -20,9 +19,9 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />My most loved programming languages is 
+              <br />most loved programming language is 
               <i>
-                <b className="purple"> Javascript and Python.</b>
+                <b className="purple"> Javascript.</b>
               </i>
               <br />
               <br />
@@ -51,9 +50,7 @@ function Home2() {
             </p>
           </Col>
           <Col  md={4} className="myAvtar">
-            <Tilt>
               <img src={myImg} width="300px" height="250px"  className="img-fluid" alt="avatar" />
-            </Tilt>
           </Col>
         </Row>
         <Row>

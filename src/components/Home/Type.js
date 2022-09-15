@@ -7,7 +7,7 @@ function Type() {
       options={{
         strings: [
           "JavaScript Developer",
-          "Automation Engineer"
+          "Jira Administrator"
         ],
         autoStart: true,
         loop: true,

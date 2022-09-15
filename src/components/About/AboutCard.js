@@ -8,22 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Razmik Mikayelyan </span>
-            from <span className="purple"> Yerevan, Armenia.</span>
-            <br />I am a junior JavaScript Developer.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+          Results-driven and motivated Software Engineer with a demonstrated experience in improving software performance,
+             <span className="purple"> testing and updating existing software, and developing new software functionalities, strong attention to detail, and ability to finish projects on time. </span>
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Swimming
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> For the love of the code.
             </li>
           </ul>
 
