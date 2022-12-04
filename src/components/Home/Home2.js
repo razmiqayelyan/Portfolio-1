@@ -50,7 +50,7 @@ function Home2() {
             </p>
           </Col>
           <Col  md={4} className="myAvtar">
-              <img src={myImg} width="300px" height="250px"  className="img-fluid" alt="avatar" />
+              <img style={{borderRadius:"30%"}} src={myImg} width="300px" height="250px"  className="img-fluid" alt="avatar" />
           </Col>
         </Row>
         <Row>
